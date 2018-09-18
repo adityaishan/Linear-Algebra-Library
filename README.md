@@ -1,8 +1,10 @@
 # Linear-Algebra-Library
 A mathematical linear algebra library implemented in python.
 
-modules on - Hyperplane
-
+Modules on 
+           
+           - Hyperplane
+           
            - Line
            
            - Linear System
